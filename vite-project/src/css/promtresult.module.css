@@ -1,0 +1,52 @@
+.mainPromptDiv {
+  width: 100%;
+  display: flex;
+  gap: 20px;
+  padding: 10px 20px 10px 20px;
+}
+.searchHistory {
+  width: 20%;
+  height: 95vh;
+  padding: 0 20px;
+  box-shadow: 4px 0 8px  rgba(57, 58, 58, 0.5); 
+  border-radius: 10px;
+  left: 0px;
+}
+.searchHistory h2{
+font-size: 1.4rem;
+}
+.searchHistory ul{
+  width: 100%; 
+}
+.searchHistory li{
+  width: 80%; 
+  font-size: 0.9rem;
+}
+.searchPrompt {
+  width: 70%;
+  height: 100vh;
+
+}
+.promptResult {
+  width: 80%;
+  border-radius: 20px;
+  height: 70vh;
+  margin-bottom: 20px;
+  padding: 50px;
+box-shadow: rgba(67, 135, 158, 0.05) 0px 6px 24px 0px, rgba(86, 189, 209, 0.08) 0px 0px 0px 1px;
+  border-color: rgb(135, 222, 235);
+}
+.imageBot {
+  width: 100px;
+  height: 100px;
+  animation: rotate 3s infinite ease-out;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

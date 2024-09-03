@@ -1,0 +1,25 @@
+
+video {
+  width: 200px;
+  max-width: 100%; 
+  height: 200px;
+  max-height: fit-content; 
+  border-radius: 50%; 
+  display: block;
+
+}
+
+.welcomeMain {
+  width: 200px; 
+  max-width: 500px; 
+  height: 200px;
+  max-height: 500px;
+  margin: 20px auto;
+  padding: 10px; 
+  border-radius: 50%;
+  border: 5px dotted #64d6ff; 
+  background: #1a1a1a; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

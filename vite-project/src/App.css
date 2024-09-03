@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.input-focus:focus {
+  border-color: #64d6ff;
+}
+
+.input-focus:hover {
+  color: #53f2ef;
+}
+
+
