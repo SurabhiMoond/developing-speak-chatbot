@@ -65,7 +65,7 @@ To set up and run this project locally, follow these steps:
 4. **Start the development server**:
    ```
     npm run start
-   
+   ``
 ##Tech Stack :
 
 -**Frontend**: Vite, React, Axios
