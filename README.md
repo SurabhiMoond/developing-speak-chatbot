@@ -1,7 +1,4 @@
-# developing-speak-chatbot
-I am developing speak input output chatbot
-
-# Project Title
+# Project : GPT-ChatBot
 
 ## Introduction
 This project is designed to develop a chatbot that accepts speech input and provides speech output. It focuses on integrating speech recognition and natural language processing to create an interactive user experience, solving the problem of efficient and hands-free communication with a chatbot.
