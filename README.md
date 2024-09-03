@@ -68,10 +68,10 @@ To set up and run this project locally, follow these steps:
    
 ##Tech Stack :
 
-  -**Frontend**: Vite, React, Axios
-  -**Styling**: CSS
-  -**APIs**: D-ID API, Cohere API
-  -**Utilities**: Window SpeechRecognition, .env for environment variables
+-**Frontend**: Vite, React, Axios
+-**Styling**: CSS
+-**APIs**: D-ID API, Cohere API
+-**Utilities**: Window SpeechRecognition, .env for environment variables
    
 
     
