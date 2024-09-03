@@ -68,12 +68,11 @@ To set up and run this project locally, follow these steps:
    
 ##Tech Stack :
 
-   ```bash
   -**Frontend**: Vite, React, Axios
   -**Styling**: CSS
   -**APIs**: D-ID API, Cohere API
   -**Utilities**: Window SpeechRecognition, .env for environment variables
-   ```
+   
 
     
 
