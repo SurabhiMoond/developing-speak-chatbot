@@ -4,7 +4,7 @@ I am developing speak input output chatbot
 # Project Title
 
 ## Introduction
-This project is designed to [briefly describe the purpose of your project]. It focuses on [mention core functionality], addressing the problem of [describe the problem your project solves].
+This project is designed to develop a chatbot that accepts speech input and provides speech output. It focuses on integrating speech recognition and natural language processing to create an interactive user experience, solving the problem of efficient and hands-free communication with a chatbot.
 
 ## Project Type
 Frontend
@@ -13,6 +13,7 @@ Frontend
 You can access the deployed frontend of the project here: https://developing-speak-chatbot-khub.vercel.app/
 
 ## Directory Structure
+
 GPT-Bot/
 ├─ src/
 │  ├─ assets/
@@ -25,6 +26,7 @@ GPT-Bot/
 └─ vite.config.js
 
 ## Features
+
 Key features of the application include:
 
 - **D-ID Integration**: Uses the D-ID API for generating and managing digital identities.
@@ -34,12 +36,14 @@ Key features of the application include:
 - **Axios for HTTP Requests**: Manages API requests with Axios for efficient communication with external services.
 
 ## Design Decisions & Assumptions
+
 - **Vite**: Selected as the build tool due to its speed and ease of use during development.
 - **CSS**: Simple CSS was chosen to keep the styling lightweight and maintain cross-browser compatibility.
 - **Environment Variables**: Sensitive information like API keys is managed through a `.env` file to keep them secure.
 - **Frontend Only**: The project is purely frontend-based, with all data processing occurring client-side.
 
 ## Installation & Getting Started
+
 To set up and run this project locally, follow these steps:
 
 1. **Clone the repository**:
@@ -48,37 +52,28 @@ To set up and run this project locally, follow these steps:
    cd developing-speak-chatbot
    npm install
    npm i axios
-#Set up environment variables:
-  ```bash
+   ```
+2. **Set up environment variables**:
+   ```bash
     Create a .env file in the root directory.
-  ```
-#Add your API keys:
-```bash
+   ```
+3. **Add your API keys**:
+   ```bash
     VITE_DID_API_KEY=your-did-api-key
     VITE_COHERE_API_KEY=your-cohere-api-key
-```
-#Start the development server:
-    
+   ```
+4. **Start the development server**:
+   ```
     npm run start
+   
 ##Tech Stack :
-```bash
-  Frontend: Vite, React, Axios
-  Styling: CSS
-  APIs: D-ID API, Cohere API
-  Utilities: Window SpeechRecognition, .env for environment variables
-```
-##APIs Used:
-```bash
-  -**D-ID API**: Used for managing digital identities. D-ID API Documentation
-  -*Cohere API**: Used for natural language processing tasks. Cohere API Documentation
-```
-#API Endpoints
-```bash
-  API endpoints your backend or external services use:
-  Example:
-  -**GET /api/items**: Retrieves all items.
-  -**POST /api/items**: Creates a new item.
-```
+   ```bash
+  -**Frontend**: Vite, React, Axios
+  -**Styling**: CSS
+  -**APIs**: D-ID API, Cohere API
+  -**Utilities**: Window SpeechRecognition, .env for environment variables
+   ```
+
     
 
 
