@@ -22,6 +22,13 @@ GPT-Bot/
 ├─ package.json
 └─ vite.config.js
 
+## Video Walkthrough of the Project
+[Watch Video Walkthrough of the Project](https://drive.google.com/file/d/1zc53m0-IRYFLfrmG-zviuAJMSQZ8UXHq/view?usp=sharing)
+
+## Video Walkthrough of the Codebase
+[Watch Video Walkthrough of the Codebase](https://drive.google.com/file/d/1zc53m0-IRYFLfrmG-zviuAJMSQZ8UXHq/view?usp=sharing)
+
+
 ## Features
 
 Key features of the application include:
