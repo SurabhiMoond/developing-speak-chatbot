@@ -22,7 +22,7 @@ GPT-Bot/
 ├─ package.json
 └─ vite.config.js
 
-## Project Snippts
+## Project Snippets
 
 ![image](https://github.com/user-attachments/assets/d8ff69d2-984c-4076-99c3-385dc1fc046c)
 ![image](https://github.com/user-attachments/assets/bcc4cdb6-afd9-4ce9-b42d-b1088f048494)
