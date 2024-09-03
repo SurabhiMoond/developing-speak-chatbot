@@ -22,6 +22,14 @@ GPT-Bot/
 ├─ package.json
 └─ vite.config.js
 
+##Project Snippts
+![image](https://github.com/user-attachments/assets/d8ff69d2-984c-4076-99c3-385dc1fc046c)
+![image](https://github.com/user-attachments/assets/bcc4cdb6-afd9-4ce9-b42d-b1088f048494)
+![image](https://github.com/user-attachments/assets/77b2e8ed-64c2-4e7e-b5f4-081aef4dc84d)
+
+
+
+
 ## Video Walkthrough of the Project
 [Watch Video Walkthrough of the Project](https://drive.google.com/file/d/1zc53m0-IRYFLfrmG-zviuAJMSQZ8UXHq/view?usp=sharing)
 
