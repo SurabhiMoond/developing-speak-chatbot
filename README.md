@@ -67,6 +67,7 @@ To set up and run this project locally, follow these steps:
     npm run start
    
 ##Tech Stack :
+
    ```bash
   -**Frontend**: Vite, React, Axios
   -**Styling**: CSS
